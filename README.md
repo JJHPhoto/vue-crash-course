@@ -1,2 +1,3 @@
-# vue-crash-course
-Learning Vue JS using Traversy's YouTube tutorial
+# [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+
+I'm trying to learn Vue JS for some contract work, so I decided to go through Traversy's course on YouTube. I find him to be one of the best and most thorough trainers.
