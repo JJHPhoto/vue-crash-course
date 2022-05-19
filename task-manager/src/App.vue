@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import Header from "./components/Header.vue";
-import Tasks from "./components/Tasks.vue";
+import Header from "./components/Header";
+import Tasks from "./components/Tasks";
 
 export default {
   name: "App",
