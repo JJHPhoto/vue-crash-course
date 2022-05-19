@@ -28,3 +28,5 @@ here, but it should have just been like this:
 ```
 
 Once I had that "working", I wondered if the solution I had found for the previous error was still necessary. I had added an empty `<div>` inside the `<template>` so that the `v-for` div wasn't at the root of the template. Turns out that error doesn't prevent the component from working. It appears to just be an eslint warning that doesn't break my code. Good to know! And to learn!
+
+While working through the "delete-task" part of the app, I liked that Traversy would console.log things to see if it was working. Then move on once it logged. Its a very simple check but I sometimes forget how easy it is to check things that way.
