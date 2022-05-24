@@ -32,3 +32,7 @@ Once I had that "working", I wondered if the solution I had found for the previo
 While working through the "delete-task" part of the app, I liked that Traversy would console.log things to see if it was working. Then move on once it logged. Its a very simple check but I sometimes forget how easy it is to check things that way.
 
 While working on the functionality and style of the `add-task` button, I was having an issue where my v-bind wasn't passing the boolean. It was supposed to toggle the text & color when clicked and it wasn't. When I followed along and switched the `$emit` on the button from `toggle-add-task` to `btn-click`, it started to work. Unsure why it wasn't working before but I'll take it.
+
+Passing a prop from the main `App.vue` to `Home.vue` using `router-view` was very interesting to learn. I really like how Traversy explained the issue he had and how it took him a while to figure it out.
+
+Lastly, I really liked how Traversy noticed things like the button being on the About page and showed you how to have that only show conditionally.
